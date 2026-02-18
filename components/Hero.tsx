@@ -22,9 +22,9 @@ export default function Hero() {
                     transition={{ duration: 0.8 }}
                     className="text-5xl md:text-7xl font-extrabold leading-tight tracking-tight"
                 >
-                    Building{" "}
+                   Hi👋{" "}
                     <span className="bg-gradient-to-r from-blue-400 via-purple-400 to-cyan-400 bg-clip-text text-transparent">
-                        Scalable AI Systems
+                        i am Ganesh Ghode
                     </span>
                 </motion.h1>
 
